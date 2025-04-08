@@ -12,6 +12,23 @@ Este projeto é um catálogo interativo de skins do jogo Counter-Strike: Global 
 - Barra de busca para filtrar skins por nome.
 - Interface responsiva e simples de navegar.
 
+## Tecnologias utilizadas
+
+- ReactJS
+
+- Axios
+
+- CSS
+
+## Estrutura do projeto
+
+- App.js: componente principal que faz a requisição à API, filtra as skins e renderiza os cards.
+
+- api.js: arquivo de serviço para centralizar o endpoint da API.
+
+- App.css: estilos personalizados para os cards e o layout geral.
+
+
 ## 🚀 Como executar o projeto
 
 1. Clone o repositório:
